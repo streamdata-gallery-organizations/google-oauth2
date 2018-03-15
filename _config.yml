@@ -1,6 +1,6 @@
 title: Streamdata Gallery
 url: google-oauth2.api.streamdata.gallery
-tag: Temmplate
+tag: Google OAuth2
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery-organizations
