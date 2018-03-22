@@ -26,6 +26,7 @@ paths:
           description: OK
       tags:
       - certificate
+      - certfication
 definitions:
   Jwk:
     properties:
