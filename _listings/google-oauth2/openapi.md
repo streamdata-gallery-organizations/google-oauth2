@@ -4,7 +4,7 @@ x-collection-name: Google OAuth2
 x-complete: 1
 info:
   title: Google OAuth2
-  description: obtains-enduser-authorization-grants-for-use-with-other-google-apis
+  description: obtains-enduser-authorization-grants-for-use-with-other-google-apis-
   contact:
     name: Google
     url: https://google.com
