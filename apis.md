@@ -5,7 +5,7 @@ description: This is a repository of google oauth2 APIs, self-contained as a Git
   operations.
 image: http://template.streamdata.gallery/assets/google-oauth2.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://google-oauth2.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
